@@ -3,7 +3,7 @@ name: AWS ECR IAM Policy for CI
 slug: iam-ecr-cicd
 project: infraprints
 namespace: [terraform, aws]
-description: Describes a container auto-scaling policy controlled by a SQS resource.
+description: Describes an IAM Policy for deploying artifacts to ECR.
 license:
   name: MIT
 tags:
