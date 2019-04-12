@@ -10,4 +10,6 @@ tags:
   - terraform
   - terraform-module
   - aws
-  - 
+  - aws-ecr
+  - aws-iam
+  - policy
